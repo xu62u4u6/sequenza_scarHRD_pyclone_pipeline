@@ -1,0 +1,9 @@
+timeline*
+report*
+*output*
+work/
+*log
+flowchart*
+trace*
+.nextflow/
+*.nextflow.log*
